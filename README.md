@@ -37,7 +37,7 @@ For a more detailed guide, please read our [**CONTRIBUTING.md**](CONTRIBUTING.md
 
 If you want to see the app in a new language but cannot contribute a translation yourself, you can request it!
 
-➡️ **[Click here to request a new language translation](https://github.com/YOUR_USERNAME/ganita-bingya-app-translations/issues/new?assignees=&labels=translation%2Cenhancement&template=request-new-translation.md&title=%5BLang+Request%5D%3A+)**
+➡️ **[Click here to request a new language translation](https://github.com/imsbg/ganita-bingya-app-translations/issues/new?assignees=&labels=translation%2Cenhancement&template=request-new-translation.md&title=%5BLang+Request%5D%3A+)**
 
 Please use the issue template to provide the language name and its ISO code.
 
